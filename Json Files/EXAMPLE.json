@@ -1,0 +1,22 @@
+{
+    "actives": [
+        {
+            "lastname": "last name",
+            "name": "first name",
+            "positions": [],
+            "classOf": "AE XXXX",
+            "visible": "true",
+            "hasImg": "false"
+      }
+    ],
+    "advisors": [
+        {
+            "lastname": "last name",
+            "name": "first name",
+            "positions": ["Advisor"],
+            "classOf": "AE XXXX",
+            "visible": "true",
+            "hasImg": "false"
+      }
+    ]
+}

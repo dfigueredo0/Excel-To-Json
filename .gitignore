@@ -1,3 +1,5 @@
 rosters/
 
-.json
+*.json
+!Json Files/
+!Json Files/EXAMPLE.json

@@ -1,5 +1,6 @@
 import pandas as pd
 import json
+import os
 from datetime import datetime
 
 def excel_to_json(excel_file):
@@ -33,7 +34,11 @@ def excel_to_json(excel_file):
         
 
     date_str = datetime.now().strftime("%Y-%m-%d")
-    file_name = f"brothers_{date_str}.json"
+
+    output_dir = 'Json Files'
+    os.makedirs(output_dir, exist_ok=True)
+
+    file_name = os.path.join(output_dir, f"brothers_{date_str}.json")
 
     data = {
         "actives": actives,
