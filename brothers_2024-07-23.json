@@ -1,0 +1,208 @@
+{
+      "actives": [
+            {
+                  "lastname": "Austgen",
+                  "name": "Kaleb",
+                  "positions": [],
+                  "classOf": "AE 2026",
+                  "visible": "true",
+                  "hasImg": "false"
+            },
+            {
+                  "lastname": "Cao",
+                  "name": "Huy",
+                  "positions": [
+                        "Phi"
+                  ],
+                  "classOf": "AE 2024",
+                  "visible": "true",
+                  "hasImg": "false"
+            },
+            {
+                  "lastname": "Espinoza",
+                  "name": "Pedro",
+                  "positions": [],
+                  "classOf": "AE 2025",
+                  "visible": "true",
+                  "hasImg": "false"
+            },
+            {
+                  "lastname": "Figueredo",
+                  "name": "Dylan",
+                  "positions": [
+                        "Sigma"
+                  ],
+                  "classOf": "AE 2026",
+                  "visible": "true",
+                  "hasImg": "false"
+            },
+            {
+                  "lastname": "Grant",
+                  "name": "Kyle",
+                  "positions": [
+                        "Beta, Theta 1"
+                  ],
+                  "classOf": "AE 2027",
+                  "visible": "true",
+                  "hasImg": "false"
+            },
+            {
+                  "lastname": "Harmon",
+                  "name": "Martin",
+                  "positions": [
+                        "Theta 3"
+                  ],
+                  "classOf": "AE 2027",
+                  "visible": "true",
+                  "hasImg": "false"
+            },
+            {
+                  "lastname": "Hill",
+                  "name": "Jordan",
+                  "positions": [
+                        "Lambda"
+                  ],
+                  "classOf": "AE 2027",
+                  "visible": "true",
+                  "hasImg": "false"
+            },
+            {
+                  "lastname": "Kenyeri",
+                  "name": "Ronald",
+                  "positions": [
+                        "Alpha"
+                  ],
+                  "classOf": "AE 2025",
+                  "visible": "true",
+                  "hasImg": "false"
+            },
+            {
+                  "lastname": "Messina",
+                  "name": "Jacob",
+                  "positions": [
+                        "Pi"
+                  ],
+                  "classOf": "AE 2027",
+                  "visible": "true",
+                  "hasImg": "false"
+            },
+            {
+                  "lastname": "Nakamura",
+                  "name": "Marshall",
+                  "positions": [
+                        "Gamma"
+                  ],
+                  "classOf": "AE 2026",
+                  "visible": "true",
+                  "hasImg": "false"
+            },
+            {
+                  "lastname": "Nicolas Ke",
+                  "name": "Matias ",
+                  "positions": [
+                        "Epsilon"
+                  ],
+                  "classOf": "AE 2027",
+                  "visible": "true",
+                  "hasImg": "false"
+            },
+            {
+                  "lastname": "Schneider",
+                  "name": "Ronan",
+                  "positions": [
+                        "Iota, Chi, Upsilon"
+                  ],
+                  "classOf": "AE 2025",
+                  "visible": "true",
+                  "hasImg": "false"
+            },
+            {
+                  "lastname": "Viswanathan",
+                  "name": "Manoj",
+                  "positions": [
+                        "Tau"
+                  ],
+                  "classOf": "AE 2027",
+                  "visible": "true",
+                  "hasImg": "false"
+            },
+            {
+                  "lastname": "Wangpo",
+                  "name": "Thupten",
+                  "positions": [],
+                  "classOf": "AE 2026",
+                  "visible": "true",
+                  "hasImg": "false"
+            },
+            {
+                  "lastname": "Wilson",
+                  "name": "Austin ",
+                  "positions": [
+                        "Theta 2"
+                  ],
+                  "classOf": "AE 2027",
+                  "visible": "true",
+                  "hasImg": "false"
+            },
+            {
+                  "lastname": "Pham",
+                  "name": "Khang",
+                  "positions": [],
+                  "classOf": "AE 2026",
+                  "visible": "true",
+                  "hasImg": "false"
+            },
+            {
+                  "lastname": "Hughes",
+                  "name": "Connor",
+                  "positions": [
+                        "Psi, Ass. Tau"
+                  ],
+                  "classOf": "AE 2027",
+                  "visible": "true",
+                  "hasImg": "false"
+            }
+      ],
+      "advisors": [
+            {
+                  "lastname": "Opicka",
+                  "name": "Doug",
+                  "positions": [
+                        "President"
+                  ],
+                  "classOf": "AE 2",
+                  "visible": "true",
+                  "hasImg": "false"
+            },
+            {
+                  "lastname": "Doman",
+                  "name": "Gary",
+                  "positions": [
+                        "Asst. Chapter Advisor"
+                  ],
+                  "classOf": "AE nan",
+                  "visible": "true",
+                  "hasImg": "false"
+            },
+            {
+                  "lastname": "Bassett",
+                  "name": "Leo",
+                  "positions": [
+                        "Chapter Advisor"
+                  ],
+                  "classOf": "AE nan",
+                  "visible": "true",
+                  "hasImg": "false"
+            },
+            {
+                  "lastname": "Martin",
+                  "name": "Avery",
+                  "positions": [
+                        "Resident Advisor"
+                  ],
+                  "classOf": "AE nan",
+                  "visible": "true",
+                  "hasImg": "false"
+            }
+      ]
+}
